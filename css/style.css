@@ -7,6 +7,15 @@ html, body {
     width: 100%;
     height: 100%;
 }
+.text-link {
+    color: #EE9C6A;
+}
+
+.catalog-title {
+    color: #333333 !important;
+}
+
+/* CATALOG SECTION */
 
 /* ABOUT SECTION */
 .about-description {
